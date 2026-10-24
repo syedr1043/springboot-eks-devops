@@ -14,7 +14,7 @@ on:
         default: "no"
 
 env:
-  AWS_REGION: ap-south-1
+  AWS_REGION: us-east-1
   TF_VERSION: "1.17.0"
   TF_WORKING_DIR: EKS-Terraform
 
